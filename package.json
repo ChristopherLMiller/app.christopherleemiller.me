@@ -76,7 +76,7 @@
     "@graphql-codegen/cli": "^1.21.4",
     "@graphql-codegen/near-operation-file-preset": "^1.18.4",
     "@graphql-codegen/typescript": "^1.22.4",
-    "@graphql-codegen/typescript-operations": "^1.18.3",
+    "@graphql-codegen/typescript-operations": "^1.18.4",
     "@graphql-codegen/typescript-react-apollo": "^2.2.8",
     "@graphql-codegen/typescript-react-query": "^1.2.4",
     "@next/bundle-analyzer": "^11.0.1",
